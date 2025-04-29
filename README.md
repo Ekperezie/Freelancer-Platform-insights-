@@ -22,6 +22,7 @@ The questions are in two categories :
 
 
 ## ANALYSIS AND FINDINGS :
+Link to the dashboard (https://github.com/Ekperezie/Freelancer-Platform-insights-/blob/main/freelancer%20dashboard%20BI%20format.pbix)
 ## 1. FREELANCER ORIENTED FINDINGS :
 Key Findings
 
