@@ -25,6 +25,7 @@ The questions are in two categories :
 Link to the dashboard (https://github.com/Ekperezie/Freelancer-Platform-insights-/blob/main/freelancer%20dashboard%20BI%20format.pbix)
 ## 1. FREELANCER ORIENTED FINDINGS :
 Key Findings
+![Screenshot_2025-04-29-12-43-55-647_word office docxviewer document docx reader](https://github.com/user-attachments/assets/9ad62731-7135-49db-a93a-5f59ccf16151)
 
 a) Average Income per Freelancer by Platform :
 
@@ -99,6 +100,7 @@ Based on the findings, Upwork emerges as the best freelance platform overall, of
 
 ## 2. PLATFORM PROVIDER ORIENTED:
 Key Insights :
+![Screenshot_2025-04-29-12-44-07-263_word office docxviewer document docx reader](https://github.com/user-attachments/assets/fdbf0757-f2af-4204-95a2-40e0bc62f220)
 
 a. Client Region Distribution
 
